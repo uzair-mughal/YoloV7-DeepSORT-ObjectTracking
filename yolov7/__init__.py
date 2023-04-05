@@ -1,0 +1,1 @@
+from yolov7.yolov7_object_detector import YOLOV7ObjectDetector

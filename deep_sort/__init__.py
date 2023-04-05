@@ -1,0 +1,1 @@
+from deep_sort.deepsort import DeepSort
