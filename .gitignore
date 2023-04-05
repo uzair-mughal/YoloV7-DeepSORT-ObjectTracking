@@ -133,4 +133,4 @@ dmypy.json
 *.pt
 
 # Video files
-*.mp4
+inference/*.mp4
