@@ -57,4 +57,4 @@ Test
 
 ## Demo
 
-![Alt text](YoloV7-DeepSORT-ObjectTracking/results/res.png?raw=true "Title")
+![image](https://user-images.githubusercontent.com/49607360/230225071-a7b4c853-34d2-473a-9049-db32a443c848.png)
